@@ -27,24 +27,21 @@
 - Thanks for that
 - cheers
 
-## intent: faq/ask_education
-- What is your education history?
-- what university did you go to?
-- what chat channels does rasa uses
-- schools you went to 
-- tell me about your education
+## intent: faq/ask_name
+- Who are you?
+- whats your name
+- who am i chatting to
 
-## intent: faq/ask_languages
-- what languages do code in?
-- which language do you support?
-- which languages do you program in
-- can you use python
-- languages supported
+## intent: faq/ask_human
+- I want to speak to a human
+- I would rather chat with a human
+- connect me to a live agent
+- I want to speak to customer service
+- can i talk to a live agent
 
-## intent: faq/ask_experience
-- I want information about your experience
-- i want to learn more about your experience
-- what is your experience?
-- Can you tell me about your experience?
-- Tell me about your experience
-- tell me what is your experience
+## intent: faq/ask_stolenmoney
+- What would happen to the money in my account if my phone is lost or stolen?
+- what if my phone is stolen
+- what if my phone is lost
+- what happens if my phone is lost
+- what happens if my phone is stolen

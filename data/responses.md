@@ -1,11 +1,15 @@
-## ask education
-* faq/ask_education
-  -  I am in my final year at UNISA doing a bsc in Computer science, and I have a Higher certificate in information systems from [umuzi](https://umuzi.org). You can download my [CV](https://thephiri.online/wp-content/uploads/2020/03/Chipo_Phiri_CV.pdf).
+## ask name
+* faq/ask_name
+  - I am Sisi NoNo your personal MoMo agent. 
 
-## ask languages
-* faq/ask_languages
-  - I can program in Python, R, SQL, Javascript and other languages
+## ask human
+* faq/ask_human
+  - Sure, you call MoMo customer care on 083 135 or email momo@mtn.com
 
-## ask experience
-* faq/ask_experience
- - I have experience in various subjects including Data science, Web development and graphic design. Take a look at my projects [here](https://thephiri.online/)
+
+## ask stolenmoney
+* faq/ask_stolenmoney
+ - Accessing your MoMo account requires your security PIN so your money will be safe. For further safety please contact the MoMo call centre on 083 135 to suspend your account. Once you have received your sim swap please call the MoMo call centre again to activate your account and use MoMo.
+
+
+ 
